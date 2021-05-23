@@ -13,7 +13,7 @@ import CakeWinnings from './CakeWinnings'
 import LotteryJackpot from './LotteryJackpot'
 
 const StyledLotteryCard = styled(Card)`
-  background-image: url('/images/ticket-bg.svg');
+  background-image: url('./images/ticket-bg.svg');
   background-repeat: no-repeat;
   background-position: top right;
   min-height: 376px;

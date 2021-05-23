@@ -211,7 +211,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
 }
 
 const PoolFinishedSash = styled.div`
-  background-image: url('/images/pool-finished-sash.svg');
+  background-image: url('./images/pool-finished-sash.svg');
   background-position: top right;
   background-repeat: not-repeat;
   height: 135px;
