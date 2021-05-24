@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://www.tuidog.com/',
+        href: 'http://exchange.tuidog.com/',
       },
       {
         label: 'Liquidity',
-        href: 'http://www.tuidog.com/#/pool',
+        href: 'http://exchange.tuidog.com/#/pool',
       },
     ],
   },
@@ -85,21 +85,21 @@ const config: MenuEntry[] = [
       },
     ],
   },
-  {
-    label: 'Partnerships/IFO',
-    icon: 'GooseIcon',
-    href: 'https://docs.google.com/',
-  },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.singledogdefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/singledog-finance',
-  },
+  // {
+  //   label: 'Partnerships/IFO',
+  //   icon: 'GooseIcon',
+  //   href: 'https://docs.google.com/',
+  // },
+  // {
+  //   label: 'Audit by Hacken',
+  //   icon: 'AuditIcon',
+  //   href: 'https://www.singledogdefi.com/files/hackenAudit.pdf',
+  // },
+  // {
+  //   label: 'Audit by CertiK',
+  //   icon: 'AuditIcon',
+  //   href: 'https://certik.org/projects/singledog-finance',
+  // },
 ]
 
 export default config
